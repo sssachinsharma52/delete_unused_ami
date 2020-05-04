@@ -1,1 +1,1 @@
-![Output of the script](https://github.com/sssachinsharma52/delete_unused_ami/blob/master/1_aWQAsQkm_ccy4y0UJlSY3A.png)
+![Output of the script](1_aWQAsQkm_ccy4y0UJlSY3A.png)
